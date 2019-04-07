@@ -1,0 +1,116 @@
+.first{
+	width: 100%;
+	padding: 140px 50px;
+	background-color: #1abc9c;
+	color: #fff;
+}
+
+body{
+	position: relative;
+}
+nav{
+	background-color: #aaa;
+}
+
+
+.uper{
+	padding: 50px 80px;
+}
+.one1{
+	padding: 70px;
+	width: 70px;
+}
+
+.rk{
+	padding: 50px 80px;
+}
+#tech{
+	padding:50px 80px;
+}
+#second{
+	background-color: #ddd;
+}
+
+#good{
+	padding: 50px;
+}
+.logo{
+	font-size: 200px;
+	color: #f4511e;
+}
+.logo-sm{
+	font-size: 100px;
+	color: #f4511e;
+}
+.serve{
+	padding-top: 50px;
+}
+.port{
+	background-color: #aaa;
+	padding: 25px;
+}
+.image{
+	background-color: #f1f1f1;
+	box-shadow: 0px 4px 8px 0px rgba(0 0 0 0.2); 
+}
+img{
+	width: 100%;
+	border-radius: 4px;
+}
+.middle{
+	padding: 30px;
+}
+.header{
+	background-color: red;
+	color: white;
+	width: 100%;
+	height: 100px;
+	padding-top: 12px;
+}
+.ft{
+	background-color: #f1f1f1;
+	padding: 10px;
+}
+.pre{
+	border: 1px solid red;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.secondlast{
+	padding: 25px;
+	box-sizing: border-box;
+}
+#Contact{
+	background-color: #f1f1f1;
+	padding: 50px 250px 50px 250px;
+}
+#lastin{
+	height: 
+	width: 00px;
+}
+#sk{
+	margin-top: 15px;
+}
+.footer{
+	background-color: #aaa;
+	color: white;
+	padding: 50px;
+}
+.flex-container{
+	display: flex;
+	margin-top: 15px;
+	justify-content: flex-end;
+}
+.navbar{
+	width: 100%;
+	background-color: #444;
+}
+
+.affix{
+	top: 0;
+	width: 100%;
+}
+.kk{
+	background-color: yellow;
+}
